@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfifuration.csproj": {}
+    "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfifuration.csproj": {
+    "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfifuration.csproj",
-        "projectName": "SMTPConfifuration",
-        "projectPath": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfifuration.csproj",
+        "projectUniqueName": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj",
+        "projectName": "SMTPConfiguration",
+        "projectPath": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj",
         "packagesPath": "C:\\Users\\Keerti\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\obj\\",
         "projectStyle": "PackageReference",

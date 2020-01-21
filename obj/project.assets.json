@@ -8047,11 +8047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keerti\\source\\repos\\SMTPConfifuration\\SMTPConfifuration.csproj",
-      "projectName": "SMTPConfifuration",
-      "projectPath": "C:\\Users\\Keerti\\source\\repos\\SMTPConfifuration\\SMTPConfifuration.csproj",
+      "projectUniqueName": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj",
+      "projectName": "SMTPConfiguration",
+      "projectPath": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\SMTPConfiguration.csproj",
       "packagesPath": "C:\\Users\\Keerti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keerti\\source\\repos\\SMTPConfifuration\\obj\\",
+      "outputPath": "C:\\Users\\Keerti\\Documents\\GitHub\\SMTPConfiguration\\SMTPConfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
